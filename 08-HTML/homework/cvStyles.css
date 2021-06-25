@@ -1,0 +1,54 @@
+html {
+    background-color: #50394c;
+}
+h3{
+    text-align: center;
+}
+h4 {
+    margin-left: 30px;
+}
+header{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+#aboutMe {
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+}
+.col1 {
+    flex-direction: column;
+    display: flex;
+}
+.col2 {
+    flex-direction: column;
+    display: flex;
+}
+#myPros {
+    margin-top: 60px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+#educacion{
+    background-color: #92a8d1;
+    width: 100%;
+}
+#trabajo{
+    background-color: #80ced6;
+    width: 100%;
+}
+#skills{
+    background-color: #f7cac9;
+    width: 100%;
+}
+#hobbies{
+    background-color: #f7786b;
+    width: 100%;
+}
+#foto {
+    width: 400px;
+    height: 200px;
+}
